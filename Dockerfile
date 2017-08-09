@@ -1,6 +1,6 @@
 # dockergui
-FROM phusion/baseimage:0.9.17
-MAINTAINER Carlos Hernandez <carlos@techbyte.ca>
+FROM phusion/baseimage:0.9.22
+MAINTAINER pinion <pinion@:>
 
 #########################################
 ##        ENVIRONMENTAL CONFIG         ##
