@@ -14,7 +14,7 @@ Additionally xrdp is installed and the container can be accessed using any rdp c
   
 ```
 # Builds a docker gui image
-FROM hurricane/dockergui:xvnc
+FROM pinion/dockergui:xvnc
 
 #########################################
 ##        ENVIRONMENTAL CONFIG         ##
